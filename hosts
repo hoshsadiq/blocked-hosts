@@ -5,7 +5,6 @@
 0.0.0.0 analytics.mopub.com
 0.0.0.0 api-mf1.meta.ndmdhs.com
 0.0.0.0 api.mixpanel.com
-0.0.0.0 app-measurement.com
 0.0.0.0 art-s.nflximg.net
 0.0.0.0 auto.search.msn.com
 0.0.0.0 b02.black.ndmdhs.com
@@ -30,3 +29,8 @@
 0.0.0.0 stats.surfaid.ihost.com
 0.0.0.0 www.google-analytics.com
 0.0.0.0 www.google-analytics.l.google.com
+0.0.0.0 mkt8583.com
+0.0.0.0 mkcontentz.mkt8583.com
+0.0.0.0 mkt81.net
+0.0.0.0 links.mkt81.net
+0.0.0.0 onesievideobufferonly
