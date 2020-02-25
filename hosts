@@ -30,6 +30,10 @@
 0.0.0.0 stats.surfaid.ihost.com
 0.0.0.0 www.google-analytics.com
 0.0.0.0 www.google-analytics.l.google.com
+0.0.0.0 googleadservices.com
+0.0.0.0 www.googleadservices.com
+0.0.0.0 awin1.com
+0.0.0.0 www.awin1.com
 0.0.0.0 mkt8583.com
 0.0.0.0 mkcontentz.mkt8583.com
 0.0.0.0 mkt81.net
