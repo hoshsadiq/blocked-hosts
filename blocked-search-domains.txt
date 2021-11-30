@@ -2,7 +2,7 @@
 [Adblock Plus 2.0]
 ! Title: Blocked Search Domains
 ! Expires: 7 days (update frequency)
-! Version: 201
+! Version: 1
 ! Last modified: 30 November 2021
 ! Homepage: https://github.com/hoshsadiq/blocked-hosts/
 ! Contribute: https://github.com/hoshsadiq/blocked-hosts/issues
