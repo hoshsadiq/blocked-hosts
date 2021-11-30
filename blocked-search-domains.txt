@@ -1,0 +1,22 @@
+
+[Adblock Plus 2.0]
+! Title: Blocked Search Domains
+! Expires: 7 days (update frequency)
+! Version: 201
+! Last modified: 30 November 2021
+! Homepage: https://github.com/hoshsadiq/blocked-hosts/
+! Contribute: https://github.com/hoshsadiq/blocked-hosts/issues
+! License: https://mit-license.org/
+! Description: This filter removes some results by domain from search engines. These are mostly domains that are malware, or scrape other sites (such as GitHub, Stackoverflow, etc.) and duplicate content.
+!-------------------------------------------------------------------------------
+
+duckduckgo.com##.result[data-domain="stackshare.io"]
+duckduckgo.com##.result[data-domain="www.slant.co"]
+duckduckgo.com##.result[data-domain="www.codegrepper.com"]
+duckduckgo.com##.result[data-domain="www.xspdf.com"]
+duckduckgo.com##.result[data-domain="github_com.jam.dev"]
+duckduckgo.com##.result[data-domain="dockerquestions.com"]
+duckduckgo.com##.result[data-domain="saka.docsio.net"]
+duckduckgo.com##.result[data-domain="5.9.10.113"]
+duckduckgo.com##.result[data-domain="tipsfordev.com"]
+duckduckgo.com##.result[data-domain="mail.thetopsites.net"]
